@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yamaishou
 - 👀 I’m interested in theoretical physics
-- 🌱 I’m currently learning cosmological boostrap
+- 🌱 I’m currently learning 
 - 📫 How to reach me yamaishou@gmail.com
 
 <!---
